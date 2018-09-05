@@ -1,0 +1,14 @@
+name: sdl_better.cr
+version: 0.1.0
+
+authors:
+  - Bree Newfile <spambrecert@gmail.com>
+
+crystal: 0.25.1
+
+license: MIT
+
+dependencies:
+  sdl:
+    github: ysbaddaden/sdl.cr
+    branch: master
